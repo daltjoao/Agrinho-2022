@@ -1,9 +1,4 @@
-A Nossa economia é baseada em uma série de vendas de produtos agrícolas e minerais, mas isso é bom?
-Vamos lá, vendemos enormes quantidades desses produtos para alimentar milhões de pessoas, mas em que forma isso é bom?
-Retiramos Terras, alimentos e construímos diversas construções e criamos enormes ondas de problemas, como o aumento de temperatura no globo em geral e a extinção de diversas espécies de animais que são essenciais para o equilíbrio de toda a cadeia alimentar e da Terra em geral.
-Um dos problemas que eu vejo, é o enorme buraco na camada de ozônio que criamos utilizando de produtos feitos por nós mesmo para a redução do odor no interior de nossos ombros, que fazem nós nos tornamos mais "sociáveis", mas, em geral, animais não necessitam usar desses para se reproduzir, só por que somos "racionais" demais para entender isso e precisamos conquistar os outros lhe impressionando, agora vem a pergunta, por que?
-Usamos coisas que retiramos da natureza para impressionar nossos pares assim como os alguns animais fazem para o mesmo proposito, isso é fato. Mas devemos ver o que vamos retirar da natureza para não interferimos na vida de outros animais, como, por exemplo, a interversão humana na floresta amazônica e a influência destas na vida de diversos animais presentes ali.
-A temperatura global aumentou de 7,8°C até, em média, 14°C durante o século XX, isso é desastroso, a temperatura aumenta gradualmente a cada ano por causa do aquecimento global, isso afeta a vida de diversos seres vivos presentes no nosso planeta. A Econômia também afeta isso, o uso de desodorantes, por exemplo, produz gases prejudiciais para a abertura da camada de ôzonio, tendo em vista o aumento da temperatura em regiões afetadas por essa abertura e isso afetando diversos animais e plantas que se acostumaram a essa temperatura. Ano passado, na região de Vancouver, no Canadá, a Temperatura batia 50°C, para uma região onde o ano todo é frio e suas casas tem uma especialidade para amazenar essa temperatura, isso foi um grande problema visado pela população local.
+
 <html>
  <head>
    <h1><bold><font size="600"><center><h1 style = "font-family: sans-serif; Arial; Times New Roman;" font size="600" font color="#FFFFFF">
@@ -36,10 +31,81 @@ A temperatura global aumentou de 7,8°C até, em média, 14°C durante o século
         </h1>
  <h1><bold><font size="5" "Font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serial;>·Reduzir a quantidade de metais pesados lançados na naturezas
     </h1>
-     <img src="https://static.wixstatic.com/media/45115e_64149310bf9b4b54a0faa95a35bda58a~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_90,usm_0.66_1.00_0.01/45115e_64149310bf9b4b54a0faa95a35bda58a~mv2.jpeg">
-    
-  </body>
- </html>
+    <div class="row">
+  <div class="coluna">
+    <img src= "https://static.wixstatic.com/media/45115e_64149310bf9b4b54a0faa95a35bda58a~mv2.jpeg/v1/fill/w_1000,h_1000,al_c,q_90,usm_0.66_1.00_0.01/45115e_64149310bf9b4b54a0faa95a35bda58a~mv2.jpeg"" alt="Simbolo da UNEP, também conhecida como Programa das Nações Unidas para o Meio Ambiente" style="width:50%">
+  </div>
+  <div class="coluna">
+    <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/onu.jpg" alt="ONU, a Organização das Nações Unidas" style="width:100%">
+  </div>
+  <div class="coluna">
+    <img src="http://direitoaoponto.blogfolha.uol.com.br/files/2017/04/conselho-chama2.jpg" alt="Conselho de Segurança da ONU, os que tem as principais decisões" style="width 20
+%">
+  </div></div>
+<style>
+.coluna{
+  float: left;
+  width: 33,33%;
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+
+1° Imagem, é a Unep, conhecida também pelo nome de Programa das Nações Unidas para o Meio Ambiente, 2° ONU, a organização das Nações Unidas e a 3° São os países que fazem a maior parte das decisões, conhecidos também pelo nome de Conselho de Segurança da ONU
+  }
+}
+
+
+
+
+
+<p><h1><bold><h1 style Font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serial;">
+ Tese e Conclusão
+</p></h1></bold></font>
+ <h2><bold><h2 style Font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serial;">
+  Com tantos avanços no mundo, como ainda não somos perfeito?
+</h2></bold></font>
+ <p><bold><p style Font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serial;">
+ Primeiro Fator, a <u><I>perfeição</I></u> como conhecemos(eu acho) é inexistente, sempre teremos aquele que pensara diferente de todos nós, com ideias radicais, uma das nossas "soluções" é abandonar o nosso pequeno planeta e seguir até outros para achar outra forma de vida, mas aí vem a questão, por que fazemos isso? Pelo simples fator de estarmos destruíndo aquilo que está aqui e justificando que estaremos procurando outro local de convivência para vivermos pois, logo logo, o mundo como conhecemos não irá existir...
+ </p></bold></font>
+ <h2><bold><h2 style"Font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serial;">
+  Vivemos usando algo para remover o cheiro, o famoso desodorante, onde usamos no inferior do nosso braço para remover o mal odor que o nosso corpo transmite, antigamente, alguns desses tinham o gases que faziam mal para todo o meio ambiente, hoje,<u><I> mais ou menos 90% dos desodorantes do Brasil</u></I> tem esses tipos de gases que faziam mal ao ambiente, foram esses pequenos fatores que diminuiaram drasticamente o efeito estufa e o aumento da camada de ôzonio, mas não se esqueça, não é por isso que acabou de vez o aumento do buraco na camada de ôzonio ou os gases ruins no efeito estufa.
+ </p></bold></font>
+  <h2><bold><font size="5" "Font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serial;>
+   Para finalizar minha visão de Mundo e fazermos noss parte é o uso de Sacolas reciclavéis e retirar as sacolas descartavéis de circulação, ela é feita de compostos de combustivéis fosséis, principalmente o petróleo, ele é um dos materiais mais demorados para se decompor no ambiente, demorando cerca de 400 anos para se decompor, já as retornavéis são feitas principalmente de garrafa pet e outros matériais reciclavéis que, para não ficar um bom tempo no ambiente a fora, eles são usados para outras funções, o bom delas é que elas podem ser usadas várias vezes e tem uma facilidade na sua limpeza.
+  </h2></bold></font>
+<div class="row">
+  <div class="coluna">
+    <img src= "https://www.al.ce.gov.br/media/k2/items/cache/b9182eda1bcdc972f3973ea113867588_XL.jpg"" alt="Simbolo da UNEP, também conhecida como Programa das Nações Unidas para o Meio Ambiente" style="width:50%">
+  </div>
+  <div class="coluna">
+    <img src="https://static.paodeacucar.com/img/uploads/1/651/643651.png" alt="ONU, a Organização das Nações Unidas" style="width:60%">
+  </div>
+  <div class="coluna">
+    <img src="https://s3.static.brasilescola.uol.com.br/img/2018/06/decomposicao-lixo.jpg" alt="Conselho de Segurança da ONU, os que tem as principais decisões" style="width 20%>
+%">
+  </div></div>
+<style>
+.coluna{
+  float: left;
+  width: 33,33%;
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+
+1° Sacolas Descartavéis, mostrando a grande quantidade delas, e, como explicado antes, o problema que podem provir deles. 2° Sacolas Retornavéis e a 3° mostrando o tempo de decomposição de alguns matériais.
+ 
+
+
+
+  
 
 
 
@@ -47,8 +113,5 @@ A temperatura global aumentou de 7,8°C até, em média, 14°C durante o século
 
 
 
-
-
-
-
+</body>
 </html>
